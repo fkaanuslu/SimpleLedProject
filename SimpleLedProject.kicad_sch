@@ -318,7 +318,7 @@
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid 173a669a-7c4e-42a4-9be8-35ce21abc417)
   )
-  (text "bunu yazan tosun okuyana kosun\n" (at 144.78 135.89 0)
+  (text "Lore ipsum" (at 165.1 135.89 0)
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid de7f56fa-de12-4467-af09-a9c723f96673)
   )
